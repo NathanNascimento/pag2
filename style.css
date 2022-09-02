@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+    background-image: url(https://cdn.cloudflare.steamstatic.com/steam/apps/1599340/ss_59b4b089b53a3459797ce9b0f21d6e4ff85f15c6.1920x1080.jpg?t=1658335774) ;
+    margin-inline: 130px;
+}
+.container {
+    height: 500px;
+    background-image: linear-gradient(to bottom, blue, green);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.elemento {
+    width: 120px;
+    height: 200px;
+    background-color: rgb(168, 77, 77);
+    border: 2px solid rgb(8, 11, 224);
+    text-align: center;
+    color: aliceblue;
+
+}
+h1 {
+    text-align: center;
+    text-align: center;
+    margin-top: auto;
+    text-align: center;
+    color: #b9b4ee;
+    background-image: linear-gradient(to top, rgb(11, 91, 212), rgb(45, 42, 214));
+    border-radius: 20px;
+
+}
+footer {
+    text-align: center;
+    color: aliceblue;
+}
